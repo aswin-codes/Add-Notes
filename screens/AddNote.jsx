@@ -81,6 +81,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#EEEEE'
     },
     input: {
+        color: '#000',
         marginVertical: 10,
         backgroundColor: '#fff',
         ...Platform.select({
